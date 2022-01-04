@@ -39,7 +39,7 @@
   },
   "peerDependencies": {
     "cesium": "^1.63.0",
-    "react": "^16.8.0"
+    "react": "^17.0.2"
   },
   "devDependencies": {
     "@babel/core": "7.10.5",
@@ -64,8 +64,8 @@
     "cesium": "1.70.0",
     "copy-webpack-plugin": "6.0.2",
     "jest": "26.4.2",
-    "react": "16.13.0",
-    "react-dom": "16.13.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
     "react-hot-loader": "4.12.21",
     "rollup": "2.23.0",
     "rollup-plugin-babel": "4.4.0",
